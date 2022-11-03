@@ -1,0 +1,26 @@
+{
+  "name": "mathez",
+  "version": "0.0.0",
+  "description": "Ez math",
+  "keywords": [
+    "math"
+  ],
+  "author": "hglong16 <intihad.vuong@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/mathez.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-hglong16:hglong16/mathez"
+  },
+  "scripts": {
+    "test": "node ./__tests__/mathez.test.js"
+  }
+}
